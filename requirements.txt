@@ -19,7 +19,7 @@ psycopg2-binary>=2.9.6
 
 # Email and Notifications
 sendgrid>=6.10.0
-mailgun-rest>=0.1.0
+mailgun
 
 # HTTP Requests
 requests>=2.30.0
